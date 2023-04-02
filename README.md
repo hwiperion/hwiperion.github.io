@@ -1,1 +1,0 @@
-Adding simple pages
