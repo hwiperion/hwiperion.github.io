@@ -13,7 +13,6 @@ I have used several blogging services so far, but was frustrated with how they a
 So I have been meaning to start a blog on github, where I will have more control.
 I am excited to have finally made the move! I will add contents slowly, and potentially move posts from my older blogs hosted at WordPress. 
 
-## P.S.
+### P.S.
 It's funny that I decided to do this, out of all days, on April Fool's day! 
-
 
