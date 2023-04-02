@@ -43,7 +43,7 @@ a:hover {
 }
 
 a:visited {
-  color: #a0a;
+  color: #980804;
 }
 
 table {
@@ -87,13 +87,14 @@ ul.posts {
 }
 
 .title {
-  color: #a00;
+  color: #1434A4;
   font-weight: bold;
+  font-size: 140%;
   margin-bottom: 2em;
 }
 
   .site .title a {
-    color: #a00;
+    color: #1434A4;
     text-decoration: none;
   }
 
@@ -199,4 +200,4 @@ ul.posts {
 
   #related h2 {
     margin-bottom: 1em;
-  }
+  }:
