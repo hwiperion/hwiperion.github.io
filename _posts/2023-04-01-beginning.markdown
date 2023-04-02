@@ -2,7 +2,7 @@
 layout: post
 title:  "Beginning"
 date:   2023-04-01 23:33:45 -0500
-categories: jekyll update
+categories: misc
 ---
 {{page.title}}
 ===============
